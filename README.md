@@ -68,19 +68,7 @@ The dataset includes important employee-related columns such as:
 <a name="-project-structure"></a>
 ## 🗂️ Project Structure
 
-Employee-Attrition-Analysis-Dashboard/
-
-├── README.md
-
-├── Dataset/
-
-│   └── Employee_Attrition_Data.csv
-
-├── Dashboard/
-
-│   └── Employee_Attrition_Analysis_Dashboard.pbix
-
-│   └── Employee_Attrition_Analysis_Dashboard.png
+<img width="902" height="267" alt="Project Structure" src="https://github.com/user-attachments/assets/bc085428-2268-46df-8ae5-22e1e0826b3c" />
 
 ## 🧹 Data Cleaning & Transformation
 
