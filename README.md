@@ -1,5 +1,5 @@
 # Employee Attrition Analysis Dashboard
-A dashboard that analyzes employee attrition patterns, explores key factors influencing employee turnover and supports data-driven HR decisions using Power BI and Power Query.
+A Power BI dashboard that analyzes employee attrition, explores key factors influencing employee turnover and supports data-driven HR decisions using Power BI and Power Query.
 
 ## 📌 Table of Contents
 
