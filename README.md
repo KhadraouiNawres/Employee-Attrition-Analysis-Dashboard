@@ -80,7 +80,7 @@ Employee-Attrition-Analysis-Dashboard/
 
 │   └── Employee_Attrition_Analysis_Dashboard.pbix
 
-|   └── Employee_Attrition_Analysis_Dashboard.png
+│   └── Employee_Attrition_Analysis_Dashboard.png
 
 ## 🧹 Data Cleaning & Transformation
 
