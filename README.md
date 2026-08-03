@@ -102,8 +102,7 @@ Data cleaning was performed using **Power Query Editor**.
 
 ## 📊 Dashboard Overview
 
-<img width="1127" height="647" alt="Employee Attrition Analysis Dashboard" src="https://github.com/user-attachments/assets/d64d0de8-2b10-48e3-9c2f-335d9d9981f4" />
-
+<img width="1127" height="647" alt="Employee Attrition Analysis Dashboard" src="https://github.com/user-attachments/assets/06940afa-4193-436b-94c4-fcbe02582426" />
 
 ## 🔍 Dashboard Analysis
 - Attrition by Department: Administration leads with 84 exits (36%), followed by Sales (52, 23%) and Operations (43, 19%). IT (30, 13%), Marketing (10, 4%), HR (9, 4%), and Finance (3, 1%) trail behind.
